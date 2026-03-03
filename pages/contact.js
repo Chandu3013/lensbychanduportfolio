@@ -11,8 +11,8 @@ export default function Contact() {
             <Navbar />
             <main className="flex-grow flex items-center justify-center p-8">
                 <div className="max-w-xl w-full bg-gray-900 border border-gray-800 p-10 rounded-3xl shadow-2xl text-center">
-                    <h2 className="text-4xl md:text-5xl font-bold mb-6 tracking-tight">Let's Create <br /><span className="text-yellow-500">Magic</span></h2>
-                    <p className="text-gray-400 mb-10 text-lg">Whether it's a college event, portrait session, or creative shoot, I'm ready to capture your vision.</p>
+                    <h2 className="text-4xl md:text-5xl font-bold mb-6 tracking-tight">Let&apos;s Create <br /><span className="text-yellow-500">Magic</span></h2>
+                    <p className="text-gray-400 mb-10 text-lg">Whether it&apos;s a college event, portrait session, or creative shoot, I&apos;m ready to capture your vision.</p>
 
                     <div className="space-y-6">
                         <a href="mailto:lensbychandu007@gmail.com" className="group block w-full py-4 px-6 bg-black border border-gray-700 hover:border-gray-500 hover:bg-gray-800 text-white font-medium rounded-xl transition-all duration-300 flex items-center justify-center gap-3">
